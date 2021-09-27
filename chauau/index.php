@@ -259,7 +259,7 @@ $categories = mysqli_query($conn, "SELECT * FROM movies where state='chauau' ");
         }
     </style>
 </head>
-
+<!-- du ma ti thi mat web thi an cut huhuhu -->
 <body>
     <div class="container-sm h-100 main p-0 bg-dark">
         <!-- Title XLXX -->
